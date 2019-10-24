@@ -57,7 +57,7 @@ Please edit this README.md file with your answers to the worksheet questions.
 |    0    |    0    |    1    |    0    |    1     |    0    |    1     |    1              |    0          |    0                                      |
 ## Question 2
 
-![Logic Circuits]()
+![Logic Circuits](question2.png)
 
 ## Question 3
 
